@@ -1,7 +1,5 @@
-Aquí tienes un archivo README.md para tu proyecto de generación de datos falsos, con las instrucciones necesarias y la descripción:
 
-markdown
-Copiar código
+
 # Faker.py
 
 **Faker.py** es una aplicación en Python que genera datos falsos aleatorios, ideal para realizar pruebas o simular datos en proyectos. La herramienta permite elegir entre varios países y generar datos específicos para esos países, como nombre, dirección, teléfono, correo electrónico, fecha de nacimiento, código postal, entre otros.
